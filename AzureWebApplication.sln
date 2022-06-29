@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureWebApplication", "AzureWebApplication\AzureWebApplication.csproj", "{A0F79F16-7C4D-4D9F-9C0C-913BD7988A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncfusionBlazorApp1", "SyncfusionBlazorApp1\SyncfusionBlazorApp1.csproj", "{CC7784B6-C4CE-4553-8290-99611F0C7311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F79F16-7C4D-4D9F-9C0C-913BD7988A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F79F16-7C4D-4D9F-9C0C-913BD7988A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F79F16-7C4D-4D9F-9C0C-913BD7988A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F79F16-7C4D-4D9F-9C0C-913BD7988A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7784B6-C4CE-4553-8290-99611F0C7311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7784B6-C4CE-4553-8290-99611F0C7311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7784B6-C4CE-4553-8290-99611F0C7311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7784B6-C4CE-4553-8290-99611F0C7311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E891F9F3-7274-4D43-AD69-FB737F18829D}
+	EndGlobalSection
+EndGlobal
